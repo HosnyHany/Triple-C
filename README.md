@@ -1,5 +1,5 @@
 # [Triple-C]
-### _[Project Tagline / Short Description]_
+### _[A graduation project of DEPI round4 (Digital marketing track)_
 
 ---
 
