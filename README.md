@@ -148,3 +148,8 @@ INDUSTRY / Tech / services
 (Tiktok)(https://www.tiktok.com/@triple.c_3?lang=en)
 
 ---
+
+# work link
+## posts + videos
+
+(google drive)(https://drive.google.com/drive/folders/1egwghMtlLtgcWueLNflLsKZSmpokKSWs?usp=sharing)
