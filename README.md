@@ -160,3 +160,16 @@ INDUSTRY / Tech / services
 # [Infographic ]
 
 ![image alt](https://github.com/HosnyHany/Triple-C/blob/855be01c793f14bf88296d5e76a040ec3397f49d/Triple%20C%20(infographic).png)
+
+---
+
+# [Presentation PDF]
+
+(PDF LINK) (https://github.com/HosnyHany/Triple-C/blob/b6c0e01d01609710d9668ebd04682e578a40d005/Triple%20C%20Presentation.pdf)
+
+
+---
+
+# [WORD FILE]
+
+(word file link) (https://github.com/HosnyHany/Triple-C/blob/b6c0e01d01609710d9668ebd04682e578a40d005/Triple%20C.docx)
