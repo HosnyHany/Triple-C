@@ -153,3 +153,10 @@ INDUSTRY / Tech / services
 ## posts + videos
 
 (google drive)(https://drive.google.com/drive/folders/1egwghMtlLtgcWueLNflLsKZSmpokKSWs?usp=sharing)
+
+
+---
+
+# [Infographic ]
+
+![image alt](https://github.com/HosnyHany/Triple-C/blob/855be01c793f14bf88296d5e76a040ec3397f49d/Triple%20C%20(infographic).png)
